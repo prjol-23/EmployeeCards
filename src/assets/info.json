@@ -1,0 +1,58 @@
+[
+  {
+    "name": "John Doe",
+    "role": "Software Engineer",
+    "profile": "/ppic.png",
+    "age": 30,
+    "desc": "Experienced software engineer with a passion for building scalable web apps."
+  },
+  {
+    "name": "Michael Johnson",
+    "role": "Marketing Manager",
+    "profile": "/two.jpg",
+    "age": 35,
+    "desc": "Seasoned marketing manager with expertise in digital marketing strategies & management."
+  },
+  {
+    "name": "Emily Brown",
+    "role": "UX/UI Designer",
+    "profile": "/four.jpg",
+    "age": 32,
+    "desc": "User-centric UX/UI designer with a knack for creating intuitive and visually appealing interfaces."
+  },
+  {
+    "name": "Emma Wilson",
+    "role": "Frontend Developer",
+    "profile": "/five.jpg",
+    "age": 29,
+    "desc": "Frontend developer with a passion for creating responsive and user-friendly web interfaces."
+  },
+  {
+    "name": "Daniel Miller",
+    "role": "UI Designer",
+    "profile": "/six.jpg",
+    "age": 33,
+    "desc": "UI designer focused on creating visually stunning and intuitive user interfaces."
+  },
+  {
+    "name": "David Lee",
+    "role": "Data Scientist",
+    "profile": "/one.jpg",
+    "age": 34,
+    "desc": "Analytically-minded data scientist passionate about leveraging data to drive business "
+  },
+  {
+  "name": "Alexa Stone",
+  "role": "Backend Developer",
+    "profile": "/three.jpg",
+    "age": 28,
+    "desc": "Backend developer adept at database management and server-side architectures and optimization "
+  },
+  {
+    "name": "Robert Smith",
+    "role": "Backend Developer",
+    "profile": "/seven.jpg",
+    "age": 36,
+    "desc": "Backend developer specializing in building scalable and robust server-side applications."
+  }
+]
